@@ -1,3 +1,6 @@
-# Repository to put code, because it is not charged
-
-Putting code that I do not want to throw here.
+# Repository to put codes
+Because simply:
+* It is free.
+* The files arrangement in my computer is a complete mess.
+* Reminiscing moments of code.
+* I am loyal, even to my useless codes.
